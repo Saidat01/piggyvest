@@ -1,0 +1,68 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+ .header{
+    display: flex;
+    justify-content: space-between;
+    margin: 30px 60px;
+ }
+ .first{
+    display: flex;
+    gap: 90px;
+    align-items: center;
+ }
+  li {
+    list-style: none;
+    gap: 30px;
+ }
+ a{
+    color: black;
+    text-decoration: none;
+ }
+ ul{
+    display: flex;
+    gap: 40px;
+ }
+ .btn1{
+    background-color:white;
+    height: 50px;
+    width: 100px;
+    border-radius: 15px;
+
+ }
+ .btn2{
+    background-color: black;
+    height: 50px;
+    width: 200px;
+    border-radius: 15px;
+    color:palevioletred;
+    font-size: 18px;
+
+ }
+ .heropage{
+    display: flex;
+    justify-content: space-between;
+    background-color: #0D60D8;
+    height: 400px; 
+     
+ }
+ .picture img {
+    height: 40px;
+    width: 40px;
+ }
+ #apple{
+    display: block;
+ }
+ .two img{
+    height: 400px;
+    width: 350px;
+ }
+ .one{
+    margin-left: 60px;
+    margin-top: 60px;
+    font-size: 29px;
+ }
+ .two{
+    margin-right: 60px;
+ }
